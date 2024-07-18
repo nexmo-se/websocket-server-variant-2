@@ -1,4 +1,4 @@
-# WebSocket server, aka Middleware server
+# WebSocket server (aka Middleware server)
 
 You may use this sample code as a middleware server to handle WebSockets connections and receive audio over those WebSokets.
 
@@ -55,4 +55,4 @@ Your actual middleware application may also send audio in the other direction to
 
 ## Other capabilities handled by this sample application code
 
-A WebSocket receives the DTMF events that may be received on the peer PSTN leg. They would be displayed in this application as text payload.<br>l
+A WebSocket receives the DTMF events that may be received on the peer PSTN leg. They would be displayed in this application as text payload.<br>
